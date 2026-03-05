@@ -1,6 +1,4 @@
 # Olá, Mundo
-Primeiro repositório versionado do Curso de Git e GitHub
+ repositório versionado 
 
-Repositório criado durante uma aula ao vivo!
 
-Essa linha eu adicionei diretamente no site!!
